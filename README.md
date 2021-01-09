@@ -1,2 +1,2 @@
-This project does not use the `master` branch, please
-switch to the `xpack` branch to get the project files.
+This branch is used to recreate the 3rd party project history
+from release archives.
